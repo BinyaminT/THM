@@ -17,7 +17,7 @@ Todo el contenido es únicamente con fines educativos y debe utilizarse de maner
 ---  
 
 📡 **Conéctate conmigo:**  
-- [https://tryhackme.com/p/Binyamin](#)  
+- https://tryhackme.com/p/Binyamin
 - [LinkedIn](#)  
 - [YouTube](#)  
 - [Twitter/X](#)  
