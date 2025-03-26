@@ -17,10 +17,13 @@ Todo el contenido es únicamente con fines educativos y debe utilizarse de maner
 ---  
 
 📡 **Conéctate conmigo:**  
-- https://tryhackme.com/p/Binyamin
-- [LinkedIn](#)  
-- [YouTube](#)  
-- [Twitter/X](#)  
-- [Discord](#)  
+## 🌐 Conéctate conmigo
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23131313.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Binyamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tapia-tapia-257950b8/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/c/tuusuario)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tuinvitacion)
+
 
 🛡️ **Aprende. Hackea. Domina.** 🛡️  
