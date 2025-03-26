@@ -1,6 +1,12 @@
 # Walkthrough de LookUp
 
 Binyamin
+---
+
+## 🌟 Versión con imágenes
+
+Si prefieres ver esta resolución con imágenes explicativas, visita la versión en **Medium**:  
+🔗 [Walkthrough de Lookup en Medium](https://medium.com/@chrstntapia/walkthrough-de-lookup-5ab9bfb8f54b)
 
 ## Paso 1: Análisis con nmap
 
